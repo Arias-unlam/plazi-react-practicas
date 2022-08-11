@@ -7,9 +7,5 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   
-    <App saludo="oli">
-      <h1>Buenas</h1>
-    </App>
-
-  
+    <App/>
 );
